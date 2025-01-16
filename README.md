@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Eduardo Pontes
+# 👨‍💻 Eduardo Pontes
 
 **`Desenvolvedor Front-End`**
 
