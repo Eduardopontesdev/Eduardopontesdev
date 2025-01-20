@@ -1,3 +1,5 @@
+google-site-verification=b5UwDnwr5wQHHQ9MsO4DuXJIgUUcfy8jtlLN6tqV9v8
+
 # 👨‍💻 Eduardo Pontes
 
 **`Desenvolvedor Front-End`**
