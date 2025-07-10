@@ -2,12 +2,14 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá, me chamo Eduardo e sou um Programador Front End.
-Em transição de carreira de auxiliar técnico para programador Front End. Consigo programar sites, projetos e utilidades, resolvendo problemas utilizando tecnologias como HTML, CSS, JavaScript.
+OOlá, me chamo Eduardo e sou Programador Front-End em transição de carreira.
+Venho de uma trajetória como auxiliar técnico e gerente comercial, e hoje estou focado no desenvolvimento web com HTML, CSS e JavaScript. Tenho experiência em criar sites, aplicações e utilidades que resolvem problemas de forma eficiente.
 
-Desde quando tive meu primeiro contato com programação fiquei fascinado.
-Tenho facilidade de aprender tudo e estou disposto a aprender o que for necessario para suprir as necessidades da empresa. Apesar de ainda estar no começo da minha carreira, já possuo experiência 
- e alguma prática, Busco participar de imersoes e fazer projetos propostos . Gosto muito de trabalhar em equipe, ja fui gerente comercial na minha antiga vida profissional. O meu objetivo é agregar valor, absorver conhecimento e estou disposto a sempre aprender e melhorar.
+Desde o meu primeiro contato com a programação, fiquei completamente fascinado pela área. Tenho facilidade em aprender novas tecnologias e estou sempre disposto a adquirir o que for necessário para atender às demandas da equipe e da empresa.
+
+Apesar de estar no início da minha jornada como desenvolvedor, já participei de imersões, realizei projetos práticos e sigo em constante evolução. Valorizo o trabalho em equipe e carrego comigo a experiência de liderança da minha carreira anterior.
+
+Meu objetivo é contribuir ativamente com projetos, aprender continuamente e agregar valor por onde eu passar.
 
 
 <p align="left">
